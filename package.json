@@ -1,0 +1,17 @@
+{
+  "name": "colorblind-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "An attempt to easily distinguish atom's syntax colors",
+  "keywords": [
+    "syntax",
+    "theme",
+    "colorblind",
+    "color impaired"
+  ],
+  "repository": "https://github.com/atom/colorblind-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
