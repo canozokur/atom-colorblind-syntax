@@ -1,7 +1,7 @@
 {
   "name": "colorblind-syntax",
   "theme": "syntax",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "An attempt to easily distinguish atom's syntax colors",
   "keywords": [
     "syntax",
