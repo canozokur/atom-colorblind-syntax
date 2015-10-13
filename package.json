@@ -1,7 +1,7 @@
 {
   "name": "colorblind-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "An attempt to easily distinguish atom's syntax colors",
   "keywords": [
     "syntax",
@@ -9,7 +9,7 @@
     "colorblind",
     "color impaired"
   ],
-  "repository": "https://github.com/atom/colorblind-syntax",
+  "repository": "https://github.com/queljin/atom-colorblind-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
