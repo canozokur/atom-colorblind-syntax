@@ -5,7 +5,7 @@
 
 // function = .storage > @purple
 // function_name = .entity.name.function > @blue
-function function_name(){
+function function_name(){ array( 5, 'string')
 
   // return = .keyword.control > @purple
   // array = .support.function > @cyan
